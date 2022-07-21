@@ -2,6 +2,7 @@
 Resource management command-line program which shows Memory Utilization, Sessions opened in System, CPU Cores Usage and System Information in Terminal.
 
 **Example:**
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56856829/180104711-95c99728-47f5-4033-a0ac-87d5da5fad29.gif)
 
 **How to run (use) my program:**
